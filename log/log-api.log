@@ -1,0 +1,253 @@
+info: 3/12/2023, 7:33:22 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 11:46:04 AM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 11:46:11 AM :   :  visitante accedio al login
+info: 6/8/2023, 11:46:17 AM :  visitante logro de logearse con el usuario  fa 
+info: 6/8/2023, 11:46:21 AM :  el usuario se ha deslogeado  fa 
+info: 6/8/2023, 12:08:29 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:08:34 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:08:40 PM :  visitante accedio al registro
+info: 6/8/2023, 12:08:44 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:09:11 PM :  visitante accedio al registro
+info: 6/8/2023, 12:09:14 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:09:14 PM :  visitante accedio al registro
+info: 6/8/2023, 12:09:33 PM :  visitante accedio al registro
+info: 6/8/2023, 12:09:35 PM :  visitante accedio al registro
+info: 6/8/2023, 12:09:38 PM :  visitante accedio al registro
+info: 6/8/2023, 12:09:50 PM :  visitante accedio al registro
+info: 6/8/2023, 12:09:59 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:10:00 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:10:03 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 12:13:19 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:13:20 PM :  visitante accedio al registro
+info: 6/8/2023, 12:15:31 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:15:33 PM :  visitante accedio al registro
+info: 6/8/2023, 12:18:11 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:18:15 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:18:17 PM :  visitante accedio al registro
+info: 6/8/2023, 12:19:52 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:19:55 PM :  visitante accedio al registro
+info: 6/8/2023, 12:23:35 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:23:36 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:23:39 PM :  visitante accedio al registro
+info: 6/8/2023, 12:23:48 PM :  visitante no pudo resgistrarse ya que el usuario agregado ya existe 
+info: 6/8/2023, 12:23:52 PM :  visitante accedio al registro
+info: 6/8/2023, 12:24:49 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:25:06 PM :  visitante no pudo resgistrarse ya que el usuario agregado ya existe 
+info: 6/8/2023, 12:25:09 PM :  visitante accedio al registro
+info: 6/8/2023, 12:25:14 PM :  visitante se registro de manera exitosa para el usuario : espejofabian@gmail.com
+info: 6/8/2023, 12:25:17 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:26:48 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:26:51 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:43:14 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 12:43:20 PM :  visitante accedio al registro
+info: 6/8/2023, 12:44:00 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:44:02 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:44:27 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:44:41 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:44:41 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:45:31 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:45:35 PM :  visitante logro de logearse con el usuario  espejofabian@gmail.com 
+info: 6/8/2023, 12:49:09 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:49:12 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:49:15 PM :  visitante trato de logearse con el usuario  fabian.espejo@teledisca.com pero ha fallado 
+info: 6/8/2023, 12:49:17 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:49:23 PM :  visitante logro de logearse con el usuario  espejofabian@gmail.com 
+info: 6/8/2023, 12:49:58 PM :  el usuario se ha deslogeado  espejofabian@gmail.com 
+info: 6/8/2023, 12:50:09 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:50:15 PM :  visitante accedio al registro
+info: 6/8/2023, 12:50:19 PM :   :  visitante accedio al login
+info: 6/8/2023, 12:50:21 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 12:51:30 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:51:33 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:52:06 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:52:16 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:53:36 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 12:53:44 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:53:55 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 12:55:38 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:55:56 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:55:58 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 12:56:00 PM :  visitante accedio al recuperacion y el Correo :fabian.espejo@teledisca.com no encontrado
+info: 6/8/2023, 12:56:25 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 12:57:28 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:32:25 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 2:32:52 PM :  visitante accedio al recuperacion y el Correo : fabian.espejo@teledisca.com no fue encontrado
+info: 6/8/2023, 2:32:55 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 2:35:14 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:35:17 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 2:35:34 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:35:36 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 2:36:40 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:37:24 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:37:34 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 2:38:37 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:38:40 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 2:39:28 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:39:33 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:40:44 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 2:41:19 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:41:22 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 2:41:59 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:42:00 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 2:43:55 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:44:09 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 2:44:21 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 3:02:51 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:14:34 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:15:11 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:15:44 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:20:34 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:20:47 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:20:52 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 3:34:48 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:35:22 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:35:45 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:35:48 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 3:35:59 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 3:37:03 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:37:39 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:38:41 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:38:45 PM :   :  visitante accedio al login
+info: 6/8/2023, 3:38:46 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 3:38:53 PM :  visitante accedio al recuperacion y el Correo : fabian no fue encontrado
+info: 6/8/2023, 3:38:55 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 3:39:36 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:39:45 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:39:46 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 3:40:54 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:40:57 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 3:44:05 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:44:12 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:44:53 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:45:22 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:45:43 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:47:21 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:47:25 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 3:47:58 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:48:03 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 3:48:30 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:49:00 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:50:58 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:53:00 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:53:17 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 3:53:20 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 3:54:44 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:01:23 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:01:28 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:01:34 PM :   :  visitante accedio al login
+info: 6/8/2023, 4:01:37 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:02:01 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:02:23 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:02:25 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:02:44 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:03:49 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:04:14 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:05:17 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:05:21 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:12:24 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:12:28 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:12:51 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:12:56 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:13:20 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:13:26 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:14:21 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:14:44 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:14:47 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:15:25 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:15:40 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:17:06 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:17:13 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:17:42 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:18:02 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:18:32 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:18:39 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:18:42 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:18:57 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:19:00 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:19:03 PM :   :  visitante accedio al login
+info: 6/8/2023, 4:23:00 PM :  visitante trato de logearse con el usuario  espejofabian@gmail.com pero ha fallado 
+info: 6/8/2023, 4:23:01 PM :   :  visitante accedio al login
+info: 6/8/2023, 4:23:05 PM :  visitante logro de logearse con el usuario  espejofabian@gmail.com 
+info: 6/8/2023, 4:23:08 PM :  el usuario se ha deslogeado  espejofabian@gmail.com 
+info: 6/8/2023, 4:32:50 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:44:46 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:56:34 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:56:56 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:57:32 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:57:45 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:57:52 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:57:53 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 4:58:19 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 4:58:21 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 4:58:22 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 4:58:30 PM :   :  visitante accedio al login
+info: 6/8/2023, 4:58:44 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 4:58:52 PM :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : espejofabian@gmail.com 
+info: 6/8/2023, 4:58:52 PM :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a espejofabian@gmail.com
+info: 6/8/2023, 4:58:53 PM :  Correo electrónico de recuperación de contraseña enviado con éxito contiene el token a espejofabian@gmail.com
+info: 6/8/2023, 5:00:03 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 5:00:14 PM :   :  visitante accedio al login
+info: 6/8/2023, 5:00:36 PM :  visitante trato de logearse con el usuario  espejofabian@gmail.com pero ha fallado 
+info: 6/8/2023, 5:00:37 PM :   :  visitante accedio al login
+info: 6/8/2023, 5:00:42 PM :  visitante logro de logearse con el usuario  espejofabian@gmail.com 
+info: 6/8/2023, 5:45:00 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 5:45:04 PM :   :  visitante accedio al login
+info: 6/8/2023, 5:45:06 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 5:45:09 PM :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : espejofabian@gmail.com 
+info: 6/8/2023, 5:45:09 PM :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a espejofabian@gmail.com
+info: 6/8/2023, 5:45:12 PM :  Correo electrónico de recuperación de contraseña enviado con éxito contiene el token a espejofabian@gmail.com
+info: 6/8/2023, 5:45:23 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 5:45:29 PM :   :  visitante accedio al login
+info: 6/8/2023, 5:46:29 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 5:47:49 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 5:49:08 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 5:49:10 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 5:49:11 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 5:49:46 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 5:49:48 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 5:49:59 PM :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 6/8/2023, 5:49:59 PM :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 6/8/2023, 5:50:00 PM :  Correo electrónico de recuperación de contraseña enviado con éxito contiene el token a fabian@remotepcsolutions.com
+info: 6/8/2023, 5:50:07 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 5:50:20 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 5:51:08 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 5:51:24 PM :   :  visitante accedio al login
+info: 6/8/2023, 5:52:03 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 5:52:33 PM :  visitante accedio al recuperacion
+info: 6/8/2023, 5:55:27 PM :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 6/8/2023, 5:55:27 PM :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 6/8/2023, 5:55:27 PM :  Correo electrónico de recuperación de contraseña enviado con éxito contiene el token a fabian@remotepcsolutions.com
+info: 6/8/2023, 5:55:38 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 5:57:07 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 5:57:18 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 5:58:50 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 5:58:53 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 5:59:42 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 5:59:45 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 6:00:03 PM :  Servidor escuchando en el puerto:  3000
+info: 6/8/2023, 6:00:05 PM :  el usuario entro a formulario de cambio de clave
+info: 6/8/2023, 6:00:09 PM :   Actualizar la contraseña en la base de datos para fabian@remotepcsolutions.com
+info: 6/8/2023, 6:00:09 PM :   :  visitante accedio al login
+info: 6/9/2023, 10:51:43 AM :  Servidor escuchando en el puerto:  3000
+info: 6/9/2023, 10:51:49 AM :   :  visitante accedio al login
+info: 6/9/2023, 10:51:54 AM :  visitante trato de logearse con el usuario  fabian@remotepcsolutions.com pero ha fallado 
+info: 6/9/2023, 10:51:55 AM :   :  visitante accedio al login
+info: 6/9/2023, 10:51:59 AM :  visitante trato de logearse con el usuario  fabian@remotepcsolutions.com pero ha fallado 
+info: 6/9/2023, 10:52:00 AM :   :  visitante accedio al login
+info: 6/9/2023, 10:52:04 AM :  visitante trato de logearse con el usuario  espejofabian@gmail.com pero ha fallado 
+info: 6/9/2023, 10:52:05 AM :   :  visitante accedio al login
+info: 6/9/2023, 10:52:09 AM :  visitante trato de logearse con el usuario  espejofabian@gmail.com pero ha fallado 
+info: 6/9/2023, 10:52:10 AM :   :  visitante accedio al login
+info: 6/9/2023, 10:53:35 AM :  visitante logro de logearse con el usuario  espejofabian@gmail.com 
+info: 6/9/2023, 10:53:40 AM :  el usuario se ha deslogeado  espejofabian@gmail.com 
+info: 6/9/2023, 10:53:41 AM :   :  visitante accedio al login
+info: 6/9/2023, 10:53:42 AM :  visitante accedio al recuperacion
+info: 6/9/2023, 10:53:45 AM :  visitante accedio al recuperacion y el Correo : fabian.espejo@teledisca.com no fue encontrado
+info: 6/9/2023, 10:53:48 AM :  visitante accedio al recuperacion
+info: 6/9/2023, 10:53:57 AM :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 6/9/2023, 10:53:57 AM :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 6/9/2023, 10:53:58 AM :  Correo electrónico de recuperación de contraseña enviado con éxito contiene el token a fabian@remotepcsolutions.com
+info: 6/9/2023, 10:54:09 AM :  el usuario entro a formulario de cambio de clave
+info: 6/9/2023, 10:54:13 AM :   Actualizar la contraseña en la base de datos para fabian@remotepcsolutions.com
+info: 6/9/2023, 10:54:13 AM :   :  visitante accedio al login
+info: 6/9/2023, 11:00:43 AM :  Servidor escuchando en el puerto:  3000
