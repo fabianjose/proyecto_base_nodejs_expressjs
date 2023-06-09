@@ -1,9 +1,10 @@
 // Invocamos a logger
 const logger = require ('../log/logger')
+
 //-Invocamos a bcrypt
 const bcrypt = require('bcryptjs');
 const crypto = require('crypto');
-
+const enviar = require('../template/nueva-notificacion')
 // Invocamos a dotenv
 const dotenv = require('dotenv');
 dotenv.config({ path: './.env'});
@@ -11,6 +12,7 @@ dotenv.config({ path: './.env'});
 const connection = require('../database/db');
 const session = require('express-session');
 const nodemailer = require('nodemailer');
+const enviarCorreo = require('../template/nueva-notificacion');
 
 //creacmos un objeto de controlador que contendra todas las funciones proximas
 const controller = {}
@@ -226,70 +228,18 @@ controller.recuperarPassword = (req, res) => { //Este controlador verifica si ex
 		logger.info( new Date().toLocaleString() + ' :  ' + 'Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a '+email+'')
 
 		// Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token
-		const resetLink = `localhost:3000/resetpassword?token=${token}`;
-		const mailOptions = {
-		  from: 'fabian@remotepcsolutions.com',
-		  to: email,
-		  subject: 'Recuperación de contraseña',
-		  text: `Haz clic en el siguiente enlace para restablecer tu contraseña: ${resetLink} `
-		};
-		console.log('4');
-
-		let transporter = nodemailer.createTransport({
-			pool: true,
-			host: process.env.EMAIL_HOST,
-			port: process.env.EMAIL_PORT,
-			secure: process.env.EMAIL_SECURE === 'true', // convertir a booleano
-			auth: {
-			  user: process.env.EMAIL_USER,
-			  pass: process.env.EMAIL_PASSWORD,
-			},
-		  });
-		  
-
-		transporter.sendMail(mailOptions, (error) => {
-		  if (error) {
-			console.log('5');
-			console.log(error);
-			console.log('6');
-			// Manejar el error de envío de correo electrónico
-			logger.info( new Date().toLocaleString() + ' :  ' + 'Error al enviar el correo electrónico que contiene el token a '+email+'')
-
-			return res.status(500).json({ message: 'Error al enviar el correo electrónico' });
-		  }
-		  
-
-		  // Correo electrónico de recuperación de contraseña enviado con éxito
-		  logger.info( new Date().toLocaleString() + ' :  ' + 'Correo electrónico de recuperación de contraseña enviado con éxito contiene el token a '+email+'')
-
-		  return res.status(200).json({ message: 'Correo electrónico enviado con éxito' });
-		  
-		});
+		//correo.enviarCorreo(token,email)
+			
+			enviarCorreo(token,email,res)
+		
+		
+		
+		
 	  });
 	});
   };
 
-/*   exports.resetPassword = (req, res) => {
-	const token = req.query.token;
-	console.log(token);
-  
-	// Verificar si el token es válido y aún no ha expirado
-	connection.query('SELECT * FROM users WHERE reset_token = ? AND reset_token_expires > NOW()', [token], (error, results) => {
-	  if (error) {
-		console.log(error);
-		// Manejar el error de la consulta a la base de datos
-		return res.status(500).json({ message: 'Error en la base de datos' });
-	  }
-  
-	  if (results.length === 0) {
-		// El token no es válido o ha expirado
-		return res.status(400).json({ message: 'Token inválido o expirado' });
-	  }
-  
-	  // Renderizar la página de restablecimiento de contraseña con el token válido
-	  res.render('reset-password', { token });
-	});
-  }; */
+
   
   // Controlador para procesar el formulario de restablecimiento de contraseña
   controller.updatePassword = async (req, res) => {
