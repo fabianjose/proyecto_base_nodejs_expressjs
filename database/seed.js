@@ -7,7 +7,6 @@ const connection = require('./db');
 
 // Configuración de la conexión a la base de datos
 
-
 // Datos para insertar en la tabla de usuarios
 const usersData = [
   {
@@ -28,29 +27,25 @@ const usersData = [
 
 // Función para insertar los datos en la base de datos
 function seed() {
-  // Conexión a la base de datos
-  connection.connect((error) => {
-    if (error) {
-      console.error('Error al conectar a la base de datos:', error);
-      return;
-    }
+  // Ejecutar la sentencia SQL para crear la tabla users (si no existe)
+  const createTableQuery = `
+    CREATE TABLE IF NOT EXISTS users (
+      id INT(11) NOT NULL,
+      email VARCHAR(100) NOT NULL,
+      password VARCHAR(255) NOT NULL,
+      reset_token VARCHAR(255) DEFAULT NULL,
+      reset_token_expires DATETIME DEFAULT NULL,
+      PRIMARY KEY (id),
+      UNIQUE KEY email (email)
+    )
+  `;
 
-    // Ejecutar la sentencia SQL para crear la tabla users (si no existe)
-    const createTableQuery = `
-      CREATE TABLE IF NOT EXISTS users (
-        id INT(11) NOT NULL,
-        email VARCHAR(100) NOT NULL,
-        password VARCHAR(255) NOT NULL,
-        reset_token VARCHAR(255) DEFAULT NULL,
-        reset_token_expires DATETIME DEFAULT NULL,
-        PRIMARY KEY (id),
-        UNIQUE KEY email (email)
-      )
-    `;
+  return new Promise((resolve, reject) => {
+    // Ejecutar la sentencia de creación de tabla
     connection.query(createTableQuery, (error) => {
       if (error) {
         console.error('Error al crear la tabla users:', error);
-        connection.end();
+        reject(error);
         return;
       }
 
@@ -71,11 +66,15 @@ function seed() {
         });
       });
 
-      // Cerrar la conexión a la base de datos
-      connection.end();
+      resolve();
     });
   });
 }
 
 // Ejecutar la función de seed
-seed();
+seed().catch((error) => {
+  console.error('Ocurrió un error al ejecutar el seed:', error);
+}).finally(() => {
+  // Cerrar la conexión a la base de datos al finalizar
+  connection.end();
+});

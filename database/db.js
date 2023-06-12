@@ -3,7 +3,6 @@ const mysql = require('mysql');
 require('dotenv').config();
 
 const logger = require ('../log/logger');
-const { createLogger } = require('winston');
 
 const connection = mysql.createConnection({
     //Con variables de entorno
@@ -15,7 +14,6 @@ const connection = mysql.createConnection({
 });
 
 
-console.log(connection)
 
 
 connection.connect((error)=>{
