@@ -4,8 +4,8 @@
 
 body{
   font-family: 'Poppins', sans-serif;
-  background-color: #f5f5f5;
-  margin: auto;
+  background: rgb(240,114,228);
+  background: linear-gradient(90deg, rgb(201, 184, 199) 0%, rgba(39,43,77,1) 100%);  margin: auto;
   text-align: center;
 }
 
@@ -33,17 +33,19 @@ body{
 .btn-login{
   width: 100%;
   padding: 15px;
-  background-color: #6f42c1;
-  border: 0;
+  background-color: #7AC6FF;
+  border: none;
   box-sizing: border-box;
   cursor: pointer;
   font-weight: bold;
   font-size: large;
   color: #ffffff;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
 }
 .btn-login:hover,.btn-login:active{
   color:#fff;
-  background-color:#61428f;
+  background-color: #5390F5;
   border-color:#61428f
 }
 .btn-login:focus{
@@ -51,23 +53,47 @@ body{
 }
 
 /* Estilos boton REGISTER*/
-.btn-register{
-  width: 100%;
-  padding: 15px;
-  background-color: #34D399;
-  border: 0;
-  box-sizing: border-box;
-  cursor: pointer;
-  font-weight: bold;
-  font-size: large;
-  color: #ffffff;
-  margin-top: 20px;
-  /* Para dar la apariencia de un boton */
-  -webkit-appearance: button;
-  -moz-appearance: button;
-  appearance: button;
-  text-decoration: none;  
-}
+.btn-register,
+		.btn-forgot-password {
+			width: 100%;
+			padding: 15px;
+			background-color: #9AD9A2;
+			border: none;
+			box-sizing: border-box;
+			cursor: pointer;
+			font-weight: bold;
+			font-size: large;
+			color: #ffffff;
+			border-radius: 5px;
+			margin-top: 20px;
+			transition: background-color 0.3s ease;
+
+
+
+     
+     
+      -webkit-appearance: button;
+      -moz-appearance: button;
+      appearance: button;
+      text-decoration: none;  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		}
 .btn-register:hover,.btn-register:active{
   color:#fff;
   background-color: #10B981;

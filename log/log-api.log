@@ -53,3 +53,78 @@ info: 6/9/2023, 12:06:10 PM :  Enviar el correo electrónico de recuperación de
 info: 6/9/2023, 12:06:11 PM :  Correo electrónico de recuperación de contraseña enviado con éxito contiene el token a espejofabian@gmail.com
 info: 6/9/2023, 12:28:18 PM :   :  visitante accedio al login
 info: 6/9/2023, 12:28:19 PM :  visitante accedio al recuperacion
+info: 11/6/2023, 17:29:23 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 17:32:05 :   :  visitante accedio al login
+info: 11/6/2023, 17:32:06 :  visitante accedio al registro
+info: 11/6/2023, 17:32:17 :  visitante no pudo resgistrarse ya que el usuario agregado ya existe 
+info: 11/6/2023, 17:32:21 :  visitante accedio al registro
+info: 11/6/2023, 17:32:48 :  visitante no pudo resgistrarse ya que el usuario agregado ya existe 
+info: 11/6/2023, 17:32:51 :  visitante accedio al registro
+info: 11/6/2023, 17:33:46 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 17:34:30 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 17:34:43 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 17:36:08 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 17:36:08 :  El error de conexión es: Error: ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)
+info: 11/6/2023, 17:36:40 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 17:36:40 :  El error de conexión es: Error: ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)
+info: 11/6/2023, 18:32:05 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 18:32:05 :  El error de conexión es: Error: ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)
+info: 11/6/2023, 18:32:29 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 18:32:29 :  El error de conexión es: Error: ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)
+info: 11/6/2023, 18:33:05 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 18:33:05 :  El error de conexión es: Error: ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)
+info: 11/6/2023, 18:36:20 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 18:36:20 :  El error de conexión es: Error: ER_ACCESS_DENIED_ERROR: Access denied for user ''@'localhost' (using password: NO)
+info: 11/6/2023, 18:39:26 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 18:39:26 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 18:40:44 :  visitante accedio al registro
+info: 11/6/2023, 18:40:47 :  visitante se registro de manera exitosa para el usuario : fabian@remotepcsolutions.com
+info: 11/6/2023, 19:00:51 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 19:00:51 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 19:05:21 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 19:05:21 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 19:17:47 :   :  visitante accedio al login
+info: 11/6/2023, 19:27:17 :   :  visitante accedio al login
+info: 11/6/2023, 19:28:08 :   :  visitante accedio al login
+info: 11/6/2023, 19:30:22 :   :  visitante accedio al login
+info: 11/6/2023, 19:30:23 :   :  visitante accedio al login
+info: 11/6/2023, 19:30:31 :   :  visitante accedio al login
+info: 11/6/2023, 19:30:32 :  visitante accedio al registro
+info: 11/6/2023, 19:30:35 :  visitante accedio al recuperacion
+info: 11/6/2023, 19:32:01 :   :  visitante accedio al login
+info: 11/6/2023, 19:32:02 :   :  visitante accedio al login
+info: 11/6/2023, 19:33:48 :   :  visitante accedio al login
+info: 11/6/2023, 19:33:57 :   :  visitante accedio al login
+info: 11/6/2023, 19:33:58 :  visitante accedio al registro
+info: 11/6/2023, 19:34:00 :  visitante accedio al recuperacion
+info: 11/6/2023, 19:34:08 :   :  visitante accedio al login
+info: 11/6/2023, 19:36:22 :   :  visitante accedio al login
+info: 11/6/2023, 19:37:38 :   :  visitante accedio al login
+info: 11/6/2023, 19:37:41 :  visitante accedio al registro
+info: 11/6/2023, 19:38:03 :   :  visitante accedio al login
+info: 11/6/2023, 19:38:15 :   :  visitante accedio al login
+info: 11/6/2023, 19:38:24 :   :  visitante accedio al login
+info: 11/6/2023, 19:38:27 :   :  visitante accedio al login
+info: 11/6/2023, 19:39:29 :   :  visitante accedio al login
+info: 11/6/2023, 19:39:30 :   :  visitante accedio al login
+info: 11/6/2023, 19:39:32 :   :  visitante accedio al login
+info: 11/6/2023, 19:39:34 :   :  visitante accedio al login
+info: 11/6/2023, 19:39:41 :   :  visitante accedio al login
+info: 11/6/2023, 19:39:54 :   :  visitante accedio al login
+info: 11/6/2023, 19:39:57 :  visitante accedio al registro
+info: 11/6/2023, 19:41:00 :  visitante accedio al registro
+info: 11/6/2023, 19:41:08 :  visitante accedio al registro
+info: 11/6/2023, 19:41:10 :  visitante accedio al registro
+info: 11/6/2023, 19:41:12 :  visitante accedio al registro
+info: 11/6/2023, 19:41:42 :  visitante accedio al registro
+info: 11/6/2023, 19:41:42 :  visitante accedio al registro
+info: 11/6/2023, 19:41:43 :  visitante accedio al registro
+info: 11/6/2023, 19:41:43 :  visitante accedio al registro
+info: 11/6/2023, 19:41:55 :  visitante accedio al registro
+info: 11/6/2023, 19:42:00 :  visitante accedio al registro
+info: 11/6/2023, 19:42:24 :  visitante accedio al registro
+info: 11/6/2023, 19:45:07 :   :  visitante accedio al login
+info: 11/6/2023, 19:45:18 :   :  visitante accedio al login
+info: 11/6/2023, 19:45:24 :  visitante accedio al recuperacion
+info: 11/6/2023, 19:45:28 :  visitante accedio al registro
+info: 11/6/2023, 19:45:46 :   :  visitante accedio al login
