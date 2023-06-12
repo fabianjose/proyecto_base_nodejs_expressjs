@@ -128,3 +128,144 @@ info: 11/6/2023, 19:45:18 :   :  visitante accedio al login
 info: 11/6/2023, 19:45:24 :  visitante accedio al recuperacion
 info: 11/6/2023, 19:45:28 :  visitante accedio al registro
 info: 11/6/2023, 19:45:46 :   :  visitante accedio al login
+info: 11/6/2023, 19:50:56 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 19:51:19 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 19:51:43 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 19:54:10 :  El error de conexión es: Error: connect ECONNREFUSED ::1:3306
+info: 11/6/2023, 19:56:54 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 19:59:09 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 19:59:34 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:01:03 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:01:59 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:02:16 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:03:36 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:03:37 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:03:37 :   :  visitante accedio al login
+info: 11/6/2023, 20:03:43 :  visitante trato de logearse con el usuario  fabian@remotepcsolutions.com pero ha fallado 
+info: 11/6/2023, 20:03:44 :   :  visitante accedio al login
+info: 11/6/2023, 20:03:46 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:03:48 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:03:48 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:03:48 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:05:37 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:05:38 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:05:38 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:05:38 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:05:53 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:05:53 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:05:57 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:05:57 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:05:57 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:06:27 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:07:11 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:07:12 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:07:12 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:07:22 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:07:22 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:07:22 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:07:22 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:07:52 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:07:57 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:07:58 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:07:58 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:08:28 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:11:04 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:11:04 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:11:08 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:11:09 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:11:09 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:11:39 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:13:52 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:14:57 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:14:57 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:15:00 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:15:00 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:15:30 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:18:24 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:18:24 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:18:26 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:18:33 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:18:33 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:19:03 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:20:05 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:20:05 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:20:08 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:20:09 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:20:09 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:20:09 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:20:12 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:20:24 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:20:24 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:20:26 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:20:29 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:20:29 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:20:29 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:20:48 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:20:48 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:20:57 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:20:57 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:20:57 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:21:27 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:23:23 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:23:23 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:23:26 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:23:27 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:23:27 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:23:27 :  Error al enviar el correo electrónico a fabian@remotepcsolutions.com: ReferenceError: EMAIL_USER is not defined
+info: 11/6/2023, 20:23:52 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:23:52 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:23:54 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:23:55 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:23:55 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:23:55 :  Error al enviar el correo electrónico a fabian@remotepcsolutions.com: ReferenceError: EMAIL_USER is not defined
+info: 11/6/2023, 20:24:16 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:24:16 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:24:19 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:24:20 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:24:20 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:24:20 :  Error al enviar el correo electrónico a fabian@remotepcsolutions.com: ReferenceError: EMAIL_USER is not defined
+info: 11/6/2023, 20:24:38 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:24:38 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:24:40 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:24:40 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:24:40 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:24:40 :  Error al enviar el correo electrónico a fabian@remotepcsolutions.com: TypeError: Cannot set properties of undefined (setting 'mailer')
+info: 11/6/2023, 20:25:33 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:25:33 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:25:35 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:25:36 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:25:36 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:25:36 :  Error al enviar el correo electrónico a fabian@remotepcsolutions.com: TypeError: Cannot set properties of undefined (setting 'mailer')
+info: 11/6/2023, 20:26:51 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:26:51 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:26:53 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:26:54 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:26:54 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:26:54 :  Error al enviar el correo electrónico a fabian@remotepcsolutions.com: TypeError: Cannot set properties of undefined (setting 'mailer')
+info: 11/6/2023, 20:27:16 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:27:16 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:27:49 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:27:49 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:27:53 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:27:53 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:27:53 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:27:54 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:27:54 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:28:24 :  Error al enviar el correo electrónico que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:29:11 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:29:12 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:29:12 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:29:36 :  Servidor escuchando en el puerto:  3000
+info: 11/6/2023, 20:29:36 :  ¡Conectado a la Base de Datos!
+info: 11/6/2023, 20:29:36 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:29:36 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:29:36 :  Correo electrónico de recuperación de contraseña enviado con éxito contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:29:39 :  visitante accedio al recuperacion
+info: 11/6/2023, 20:29:40 :  visitante accedio al recuperacion y al dar click a recuperar con el correo  y se le genero un token a : fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:29:40 :  Enviar el correo electrónico de recuperación de contraseña con el enlace que contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:29:41 :  Correo electrónico de recuperación de contraseña enviado con éxito contiene el token a fabian@remotepcsolutions.com
+info: 11/6/2023, 20:30:14 :  el usuario entro a formulario de cambio de clave
+info: 11/6/2023, 20:30:20 :   Actualizar la contraseña en la base de datos para fabian@remotepcsolutions.com
+info: 11/6/2023, 20:30:20 :   :  visitante accedio al login
+info: 11/6/2023, 20:30:27 :  visitante logro de logearse con el usuario  fabian@remotepcsolutions.com 
+info: 11/6/2023, 20:30:31 :  el usuario se ha deslogeado  fabian@remotepcsolutions.com 
